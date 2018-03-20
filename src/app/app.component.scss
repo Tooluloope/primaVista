@@ -1,0 +1,18 @@
+// router-outlet {
+//     position: absolute;
+// }
+// // main {
+// //     min-height: 100%;
+// // }
+router-outlet {
+    overflow: auto;
+    padding-bottom: 100px;
+    position: absolute;
+}
+
+app-footer {
+    clear: both;
+    margin-top: -100px;
+    padding-top: 0;
+    position: relative;
+}
